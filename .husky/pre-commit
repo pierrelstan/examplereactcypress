@@ -4,5 +4,6 @@
 sh scripts/validate-branch-name
 
 # yarn  test
+yarn format
 yarn lint
 

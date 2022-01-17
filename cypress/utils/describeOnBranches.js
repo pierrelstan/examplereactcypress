@@ -1,4 +1,5 @@
 const branches = [
+  'basic-configurations',
   'create-app-skeleton',
   'header',
   'footer',
