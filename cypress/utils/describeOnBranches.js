@@ -1,15 +1,5 @@
 const branches = [
   'basic-configurations',
-  'create-app-skeleton',
-  'header',
-  'footer',
-  'hero-section',
-  'info-section',
-  'subreddit-form',
-  'load-the-data',
-  'heatmap',
-  'posts-table',
-  'readme',
 ];
 
 function describeOnBranches(startBranch) {

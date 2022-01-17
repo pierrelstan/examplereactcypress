@@ -18,16 +18,6 @@ if [ ${BRANCH_NAME_LENGTH} -eq 0 ] ; then
   echo
   echo "Accepted branch names are:"
   echo "  basic-configurations"
-  echo "  create-app-skeleton"
-  echo "  header"
-  echo "  footer"
-  echo "  hero-section"
-  echo "  info-section"
-  echo "  subreddit-form"
-  echo "  load-the-data"
-  echo "  heatmap"
-  echo "  posts-table"
-  echo "  readme"
   echo
   echo "If you need to do something outside of the scope of a ticket like a bug fix you can alternatively prefix the branch name with fix/ or chore/"
   echo "e.g. fix/my-branch-name or chore/my-branch-name"
