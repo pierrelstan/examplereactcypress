@@ -21,3 +21,14 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+#history
+.history
+
+#vscode
+.vscode
+
+cypress/screenshots
+cypress/videos
+
+.eslintcache
